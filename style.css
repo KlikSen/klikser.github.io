@@ -25,6 +25,8 @@ header.startup h1{
 .btn{
 	margin-bottom: 200px;
 	transition: 0.7s;
+  justify-content: center;
+
 }
 .btn:hover{
 	transform: scale(1.2);
